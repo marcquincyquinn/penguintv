@@ -4,14 +4,14 @@
 
 <dir>
 <name>Movies</name>
-<link>https://github.com/marcquincyquinn/penguintv/blob/master/Movies.xml</link>
+<link>https://raw.githubusercontent.com/marcquincyquinn/penguintv/master/Movies.xml</link>
 <thumbnail></thumbnail>
 <summary>My Movies Collection</summary>
 </dir>
 
 <dir>
 <name>TV Shows</name>
-<link>https://github.com/marcquincyquinn/penguintv/blob/master/TVShows.xml</link>
+<link>https://raw.githubusercontent.com/marcquincyquinn/penguintv/master/TVShows.xml</link>
 <thumbnail></thumbnail>
 <summary>My TV Collection</summary>
 </dir>
