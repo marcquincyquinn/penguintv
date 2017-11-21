@@ -1,0 +1,17 @@
+####################################################################################
+<poster>Quincy's Add-on</poster>
+####################################################################################
+
+<dir>
+<name>Movies</name>
+<link></link>
+<thumbnail></thumbnail>
+<summary>My Movies Collection</summary>
+</dir>
+
+<dir>
+<name>TV Shows</name>
+<link></link>
+<thumbnail></thumbnail>
+<summary>My TV Collection</summary>
+</dir>
