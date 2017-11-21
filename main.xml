@@ -11,7 +11,7 @@
 
 <dir>
 <name>TV Shows</name>
-<link>https://raw.githubusercontent.com/marcquincyquinn/penguintv/master/TVShows.xml</link>
+<link>https://raw.githubusercontent.com/marcquincyquinn/penguintv/TV-Shows/TVShows.xml</link>
 <thumbnail></thumbnail>
 <summary>My TV Collection</summary>
 </dir>
