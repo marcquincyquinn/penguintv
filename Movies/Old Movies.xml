@@ -1,0 +1,19 @@
+** Old Movies
+
+<item>
+	<title>The Shawshank Redemption (1994)</title>
+		<meta>
+			<content>movie</content>
+			<imdb>tt0111161</imdb>
+			<title>The Shawshank Redemption</title>
+			<year>1994</year>
+		<meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searched</sublink>
+	</link>
+	<animated_thumbnail></animated_thumbnail>
+	<thumbnail>https://image.tmdb.org/t/p/original/AwaUNTj5gKqaHriZeHWc8u79xww.jpg</thumbnail>	
+	<animated_fanart></animated_fanart>
+	<fanart>https://image.tmdb.org/t/p/original/xBKGJQsAIeweesB79KC89FpBrVr.jpg</fanart>
+</item>	
