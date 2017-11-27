@@ -24,19 +24,36 @@
         <fanart>https://image.tmdb.org/t/p/original/sYS85q6Ooasc3FkTO0NL8j0Kgu1.jpg</fanart>
 </item>
 <item>
-        <title></title>
+        <title>The LEGO Movie (2014)</title>
         <meta>
                 <content>movie</content>
-                <imdb></imdb>
-                <title></title>
-                <year></year>
+                <imdb>tt1490017</imdb>
+                <title>The LEGO Movie</title>
+                <year>2014</year>
         </meta>
         <link>
                 <sublink>search</sublink>
                 <sublink>searchsd</sublink>
         </link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/5ryMgQQG7ON6vtEDD1rZtJKhvxt.jpg</thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart></fanart>
+        <fanart>https://image.tmdb.org/t/p/original/zQmW1VNDnbdpHfRIYk7CGHuB3vK.jpg</fanart>
+</item>
+<item>
+        <title>The LEGO Batman Movie (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb></imdb>
+                <title>The LEGO Batman Movie</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/cVFzmjthwVAzMHQDvPqiidO82Nb.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/1rIIzTMm1WVxMCiXdJKLMgGCcXb.jpg</fanart>
 </item>
