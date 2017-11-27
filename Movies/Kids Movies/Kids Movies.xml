@@ -5,3 +5,38 @@
 ###############################################################################################
 
 ** Kids Movies
+
+<item>
+        <title>The LEGO Ninjago Movie (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt3014284</imdb>
+                <title>The LEGO Ninjago Movie</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/6GwbgypYNbz0w09gQn0en2AuU4H.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/sYS85q6Ooasc3FkTO0NL8j0Kgu1.jpg</fanart>
+</item>
+<item>
+        <title></title>
+        <meta>
+                <content>movie</content>
+                <imdb></imdb>
+                <title></title>
+                <year></year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>
