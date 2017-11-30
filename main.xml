@@ -3,17 +3,53 @@
 ####################################################################################
 
 <dir>
-<name>Movies</name>
-<link>https://raw.githubusercontent.com/marcquincyquinn/penguintv/master/Movies/Movies.xml</link>
-<thumbnail></thumbnail>
-<summary>My Movies Collection</summary>
+  <name>Movies</name>
+  <link>https://raw.githubusercontent.com/marcquincyquinn/penguintv/master/Movies/Movies.xml</link>
+  <thumbnail></thumbnail>
+  <summary>My Movies Collection</summary>
 </dir>
 
 <dir>
-<name>TV Shows</name>
-<link>https://raw.githubusercontent.com/marcquincyquinn/penguintv/master/TV%20Shows/New%20TV%20Shows.xml</link>
-<thumbnail></thumbnail>
-<summary>My TV Collection</summary>
+  <name>TV Shows</name>
+  <link>https://raw.githubusercontent.com/marcquincyquinn/penguintv/master/TV%20Shows/New%20TV%20Shows.xml</link>
+  <thumbnail></thumbnail>
+  <summary>My TV Collection</summary>
+</dir>
+
+<dir>
+  <title></title>
+  <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+  <thumbnail></thumbnail>
+</dir>
+
+<dir>
+  <title>Movie Watchlist</title>
+  <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
+</dir>
+
+<dir>
+  <title>Movie Collection</title>
+  <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
+</dir>
+
+<dir>
+  <title>TV Watchlist</title>
+  <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
+</dir>
+
+<dir>
+  <title>TV Collection</title>
+  <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+</dir>
+
+<dir>
+  <title>My lists</title>
+  <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+</dir>
+
+<dir>
+  <title>My Liked Lists</title>
+  <trakt>https://api.trakt.tv/users/likes/lists</trakt>
 </dir>
 
 <plugin> 
@@ -29,41 +65,5 @@
   <thumbnail></thumbnail>
   <summary>Settings for PenguinTV Addons</summary> 
 </plugin>
-
-<dir>
-  <title></title>
-  <trakt>https://api.trakt.tv/users/me/lists/</trakt>
-  <thumbnail></thumbnail>
-</dir>
-
-<dir>
-      <title>Movie Watchlist</title>
-      <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
-    </dir>
-
-    <dir>
-      <title>Movie Collection</title>
-      <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
-    </dir>
-
-    <dir>
-      <title>TV Watchlist</title>
-      <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
-    </dir>
-
-    <dir>
-      <title>TV Collection</title>
-      <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
-    </dir>
-
-    <dir>
-      <title>My lists</title>
-      <trakt>https://api.trakt.tv/users/me/lists/</trakt>
-    </dir>
-
-    <dir>
-      <title>My Liked Lists</title>
-      <trakt>https://api.trakt.tv/users/likes/lists</trakt>
-    </dir>
 
 
