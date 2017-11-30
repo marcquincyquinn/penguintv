@@ -15,3 +15,12 @@
 <thumbnail></thumbnail>
 <summary>My TV Collection</summary>
 </dir>
+
+<plugin> 
+  <name>30701</name> 
+  <link>plugin://plugin.video.penguin/?action=openSettings</link>
+  <thumbnail></thumbnail>
+  <summary>Settings for Penguintv Addons</summary> 
+</plugin>
+
+Search
