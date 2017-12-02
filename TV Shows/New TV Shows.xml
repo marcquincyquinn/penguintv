@@ -1,5 +1,5 @@
 ###############################################################################################
-<poster>Quincy's TV Shows</poster>
+<poster>Penguin TV Shows</poster>
 <thumbnail></thumbnail>
 <fanart></fanart>
 ###############################################################################################
@@ -18,3 +18,9 @@
 <thumbnail></thumbnail>
 </dir>
 
+<dir>
+<nameComedy</name>
+<link></link>
+<animated_thumbnaIL></animated_thumbnail>
+<thumbnail></thumbnail>
+</dir>
