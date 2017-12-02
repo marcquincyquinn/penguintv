@@ -17,14 +17,14 @@
 </dir>
 
 <plugin> 
-  <name>30702</name>
+  <name>Search</name>
   <link>plugin://plugin.video.penguin/?action=search</link> 
   <thumbnail></thumbnail> 
   <summary>Search for PenguinTV Addon</summary> 
 </plugin>
 
 <plugin> 
-  <name>30701</name> 
+  <name>Settings</name> 
   <link>plugin://plugin.video.penguin/?action=openSettings</link>
   <thumbnail></thumbnail>
   <summary>Settings for PenguinTV Addons</summary> 
