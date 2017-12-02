@@ -5,3 +5,19 @@
 ###############################################################################################
 
 **Documentary
+
+<dir>
+        <title>Blue Planet II </title>
+        <meta>
+                <content>tvshow</content>
+                <imdb>tt6769208</imdb>
+                <tvdb>330942</tvdb>
+                <tvshowtitle>Blue Planet II</tvshowtitle>
+                <year>2017</year>
+        </meta>
+        <link></link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/j1NsoYYDYHnPkRr7Enqr8tlexgO.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://image.tmdb.org/t/p/original/bkdDZUNRjyj66J3MR8VPZgWo7b1.jpg</fanart>
+</dir>
