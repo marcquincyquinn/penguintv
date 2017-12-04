@@ -7,6 +7,12 @@
 ** TV Shows
 
 <dir>
+<title>TV Shows</title>
+<tmdb>list/24036<dir>
+<title></title>
+</dir>
+
+<dir>
 <name>Documentary</name>
 <link>https://raw.githubusercontent.com/marcquincyquinn/penguintv/master/TV%20Shows/Documentary/documentary.xml</link>
 <animated_thumbnaIL></animated_thumbnail>
