@@ -34,5 +34,8 @@
 <thumbnail></thumbnail>
 </dir>
 
-<title>Cartoon Network</title>
-  <tmdb>network/shows/56</tmdb>
+<dir>
+  <title>Classic TV</title>
+  <tmdb>list/38976</tmdb>
+  <thumbnail></thumbnail>
+</dir>
