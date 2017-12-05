@@ -4,7 +4,10 @@
 <fanart></fanart>
 ###############################################################################################
 
-
+<dir>
+<title>80 Movies</title>
+<trakt>https://api.trakt.tv/users/quincyquinn/lists/80s-movies/items</trakt>
+</dir>
 
 
 <dir>
