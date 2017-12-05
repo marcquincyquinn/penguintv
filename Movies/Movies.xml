@@ -7,13 +7,13 @@
 **Movies
 
 <dir>
-     <name>Old Movies</name>
-     <link>https://raw.githubusercontent.com/marcquincyquinn/penguintv/master/Movies/Old%20Movies/Old%20Movies.xml</link>
-     <thumbnail></thumbnail>
-     <fanart></fanart>
+   <name>Old Movies</name>
+   <link>https://raw.githubusercontent.com/marcquincyquinn/penguintv/master/Movies/Old%20Movies/Old%20Movies.xml</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
 </dir>
 
 <dir>
-<title>Horror</title>
-<tmdb>list/40639</tmdb>
+  <title>Horror</title>
+  <tmdb>list/40639</tmdb>
 </dir>
