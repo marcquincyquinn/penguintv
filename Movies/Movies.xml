@@ -29,3 +29,8 @@
         <animated_fanart></animated_fanart>
         <fanart></fanart>
 </dir>
+
+<dir>
+<title>Horror</title>
+<trakt>https://api.trakt.tv/users/quincyquinn/lists/horror/items</trakt>
+</dir>
