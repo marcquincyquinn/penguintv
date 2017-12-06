@@ -26,5 +26,5 @@
 
 <dir>
       <title>Airing today</title>
-      <trakt>https://api.trakt.tv/calendars/my/shows</trakt>
+      <trakt>https://api.trakt.tv/quincyquinn/calendars/my/shows</trakt>
 </dir>
