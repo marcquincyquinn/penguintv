@@ -7,8 +7,14 @@
 **Movies
 
 <dir>
-<title>The Marvel Universe</title>
-<tmdb>list/1</tmdb>
+<title>Movies Collection</title>
+  <trakt>https://api.trakt.tv/users/quincyquinn/lists/movies/items</trakt>
+  <thumbnail>https://image.tmdb.org/t/p/w640/mvgcVCpy5m46AS2D3L5c7qoDrML.jpg</thumbnail>
+</dir>
+
+<dir>
+  <title>The Marvel Universe</title>
+  <tmdb>list/1</tmdb>
 </dir>
 
 <dir>
