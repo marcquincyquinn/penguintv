@@ -7,7 +7,7 @@
 ** TV Shows
 
 <dir>
-<title>TV Shows</title>
+<title>Watching TV Shows</title>
   <tmdb>list/24036</tmdb>
   <thumbnail></thumbnail>
 </dir>
@@ -22,4 +22,9 @@
   <title>Classic TV</title>
   <tmdb>list/38976</tmdb>
   <thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>Airing</title>
+  <trakt>https://api.trakt.tv/calendars/my/shows/start_date/days</trakt>
 </dir>
