@@ -7,7 +7,12 @@
 ** TV Shows
 
 <dir>
-<title>Watching TV Shows</title>
+  <title>TV Show Collection</title>
+  <trakt>https://api.trakt.tv/users/quincyquinn/lists/tv-shows/items</trakt>
+</dir>
+
+<dir>
+<title>Currently Airing TV Shows</title>
   <tmdb>list/24036</tmdb>
   <thumbnail></thumbnail>
 </dir>
