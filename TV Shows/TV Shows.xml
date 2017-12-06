@@ -26,5 +26,5 @@
 
 <dir>
 <title>Airing</title>
-  <trakt>https://api.trakt.tv/calendars/my/shows/start_date/days</trakt>
+  <trakt>https://api.trakt.tv/calendars/my/shows/start_date/7</trakt>
 </dir>
