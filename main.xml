@@ -16,11 +16,6 @@
   <summary>My TV Collection</summary>
 </dir>
 
-<dir>
-  <title>Trakts Lists</title>
-  <trakt>https://api.trakt.tv/users/quincyquinn/lists/</trakt>
-</dir>
-
 <plugin> 
   <name>Search</name>
   <link>plugin://plugin.video.penguin/?action=search</link> 
