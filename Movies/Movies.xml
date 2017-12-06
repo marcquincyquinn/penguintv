@@ -7,6 +7,16 @@
 **Movies
 
 <dir>
+<title>The Marvel Universe</title>
+<tmdb>list/1</tmdb>
+</dir>
+
+<dir>
+  <title>Science Fiction Movies</title>
+  <tmdb>list/3945</tmdb>
+</dir>
+
+<dir>
    <name>Old Movies</name>
    <link>https://raw.githubusercontent.com/marcquincyquinn/penguintv/master/Movies/Old%20Movies/Old%20Movies.xml</link>
    <thumbnail></thumbnail>
@@ -19,6 +29,6 @@
 </dir>
 
 <dir>
-  <title>Action</title>
-  <tmdb>genre/movies/28</tmdb>
+  <title>RomCom Movies</title>
+  <tmdb>list/37375</tmdb>
 </dir>
