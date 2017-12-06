@@ -23,3 +23,8 @@
   <tmdb>list/38976</tmdb>
   <thumbnail></thumbnail>
 </dir>
+
+<dir>
+      <title>Airing today</title>
+      <trakt>https://api.trakt.tv/calendars/my/shows</trakt>
+</dir>
