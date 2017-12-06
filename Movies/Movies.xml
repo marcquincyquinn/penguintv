@@ -17,3 +17,8 @@
   <title>Horror</title>
   <tmdb>list/40639</tmdb>
 </dir>
+
+<dir>
+  <title>Action</title>
+  <tmdb>genre/movies/28</tmdb>
+</dir>
