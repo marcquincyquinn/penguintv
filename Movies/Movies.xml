@@ -7,7 +7,7 @@
 **Movies
 
 <dir>
-<title>Movies Collection</title>
+<title>Movie Collection</title>
   <trakt>https://api.trakt.tv/users/quincyquinn/lists/movies/items</trakt>
   <thumbnail>https://image.tmdb.org/t/p/w640/mvgcVCpy5m46AS2D3L5c7qoDrML.jpg</thumbnail>
 </dir>
@@ -26,7 +26,7 @@
    <name>Old Movies</name>
    <link>https://raw.githubusercontent.com/marcquincyquinn/penguintv/master/Movies/Old%20Movies/Old%20Movies.xml</link>
    <thumbnail></thumbnail>
-   <fanart></fanart>
+   <fanart>https://wallpapersafari.com/movie-theater-wallpaper</fanart>
 </dir>
 
 <dir>
