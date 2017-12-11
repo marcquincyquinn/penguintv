@@ -47,3 +47,10 @@
   <thumbnail>https://image.tmdb.org/t/p/w640/xMrjnwvAN8JcKcEb8m2PoVTaO5k.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/2d1nVbu1FO3hzZWOC4exhwzmjo6.jpg</fanart>
 </dir>
+
+<dir>
+<title>Christmas Movies</title>
+  <trakt>https://api.trakt.tv/users/quincyquinn/lists/christmas-movies</trakt>
+  <thumbnail>https://image.tmdb.org/t/p/original/uh2sQFjRXCwexWcBtV7OEnL1c5G.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/63ki1d67RKrEWZLStg2Mpj4c3TE.jpg</fanart>
+</dir>
