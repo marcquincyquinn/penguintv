@@ -16,12 +16,15 @@
   <summary>My TV Collection</summary>
 </dir>
 
-<plugin> 
-  <name>Search</name>
-  <link>plugin://plugin.video.penguin/?action=search</link> 
-  <thumbnail></thumbnail> 
-  <summary>Search for PenguinTV Addon</summary> 
-</plugin>
+<dir>
+  <title>Search Trakt</title>
+  <trakt>search</trakt>
+</dir>
+
+<dir>
+  <title>Search TMDB</title>
+  <tmdb>search</tmdb>
+</dir>
 
 <plugin> 
   <name>Settings</name> 
