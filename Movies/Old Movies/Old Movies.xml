@@ -8,6 +8,12 @@
 ** Old Movies
 
 <dir>
+<title>90s Movies</title>
+  <tmdb>list/41580</tmdb>
+  <thumbnail>https://image.tmdb.org/t/p/original/dVZNSiUG8TDzNuaR87NKVTNYhWX.jpg</thumbnail>
+</dir>
+
+<dir>
 <title>80s Movies</title>
   <tmdb>list/40632</tmdb>
   <thumbnail>https://image.tmdb.org/t/p/w640/rdJeYMF0u9zmbOUsSDCKoy8XvgS.jpg</thumbnail>
