@@ -9,48 +9,54 @@
 <dir>
 <title>Movie Collection</title>
   <trakt>https://api.trakt.tv/users/quincyquinn/lists/movies/items</trakt>
-  <thumbnail>https://image.tmdb.org/t/p/w640/mvgcVCpy5m46AS2D3L5c7qoDrML.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/o5T8rZxoWSBMYwjsUFUqTt6uMQB.jpg</fanart>
 </dir>
 
 <dir>
   <title>The Marvel Universe</title>
   <tmdb>list/1</tmdb>
-  <thumbnail>https://image.tmdb.org/t/p/original/KY66hTL8YLesWguF1eFhnws9y8.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/l5003rpuMgaqzkw6QpZ1F3k9pKA.jpg</fanart>
 </dir>
 
 <dir>
   <title>Science Fiction Movies</title>
   <tmdb>list/3945</tmdb>
-  <thumbnail>https://image.tmdb.org/t/p/w640/jMw3JoZXB6CIkWUNwQdaHrIdkeb.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/aUWYtmjzwyMuDr2raRVgAjFqRFA.jpg</fanart>
 </dir>
 
 <dir>
    <name>Old Movies</name>
    <link>https://raw.githubusercontent.com/marcquincyquinn/penguintv/master/Movies/Old%20Movies/Old%20Movies.xml</link>
-   <thumbnail>https://image.tmdb.org/t/p/w640/cBfkE3HSH1NOyy1ftxlPw2l3ukb.jpg</thumbnail>
    <fanart>https://image.tmdb.org/t/p/original/cILxpoay7vKrQ9LBleWyZ92PY3o.jpg</fanart>
 </dir>
 
 <dir>
   <title>Horror</title>
   <tmdb>list/40639</tmdb>
-  <thumbnail>https://image.tmdb.org/t/p/w640/fJjmCBQQA1bCwkcXZYIGnck4CFx.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/3ngHmDu5b3s7lE5YLdoQjn5bW3P.jpg</fanart>
 </dir>
 
 <dir>
   <title>RomCom Movies</title>
   <tmdb>list/37375</tmdb>
-  <thumbnail>https://image.tmdb.org/t/p/w640/xMrjnwvAN8JcKcEb8m2PoVTaO5k.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/2d1nVbu1FO3hzZWOC4exhwzmjo6.jpg</fanart>
 </dir>
 
 <dir>
 <title>Christmas Movies</title>
   <trakt>https://api.trakt.tv/users/quincyquinn/lists/christmas-movies</trakt>
-  <thumbnail>https://image.tmdb.org/t/p/original/uh2sQFjRXCwexWcBtV7OEnL1c5G.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/63ki1d67RKrEWZLStg2Mpj4c3TE.jpg</fanart>
 </dir>
+
+<dir>
+  <title>Westerns</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/western-movies/items</trakt>
+  <fanart>https://image.tmdb.org/t/p/original/sQbp00cTLYJHAMAdHvNsgHRWr6D.jpg</fanart>
+</dir>
+
+<dir>
+  <title>Martial Arts</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/martial-arts/items</trakt>
+  <fanart>https://image.tmdb.org/t/p/original/vF8zI6PX2kfYtuhPCR4DYdQQLXh.jpg</fanart>
+</dir>
+
