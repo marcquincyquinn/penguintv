@@ -7,18 +7,13 @@
 ** TV Shows
 
 <dir>
-  <title>TV Show Collection</title>
-  <trakt>https://api.trakt.tv/users/quincyquinn/lists/tv-shows/items</trakt>
-</dir>
-
-<dir>
-<title>Currently Airing TV Shows</title>
+<title>TV Shows</title>
   <tmdb>list/24036</tmdb>
   <thumbnail></thumbnail>
 </dir>
 
 <dir>
-<title>Documentary</title>
+<title>TV Documentary</title>
   <tmdb>list/40550</tmdb>
   <thumbnail></thumbnail>
 </dir>
