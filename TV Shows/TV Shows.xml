@@ -13,6 +13,11 @@
 </dir>
 
 <dir>
+<title>Popular TV Shows</title>
+<tmdb>tv/popular</tmdb>
+</dir>
+
+<dir>
 <title>TV Documentary</title>
   <tmdb>list/40550</tmdb>
   <thumbnail></thumbnail>
