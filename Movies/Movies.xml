@@ -7,12 +7,6 @@
 **Movies
 
 <dir>
-<title>Movie Collection</title>
-  <trakt>https://api.trakt.tv/users/quincyquinn/lists/movies/items</trakt>
-  <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/o5T8rZxoWSBMYwjsUFUqTt6uMQB.jpg</fanart>
-</dir>
-
-<dir>
   <title>The Marvel Universe</title>
   <tmdb>list/1</tmdb>
   <fanart>https://image.tmdb.org/t/p/original/l5003rpuMgaqzkw6QpZ1F3k9pKA.jpg</fanart>
@@ -42,21 +36,4 @@
   <fanart>https://image.tmdb.org/t/p/original/2d1nVbu1FO3hzZWOC4exhwzmjo6.jpg</fanart>
 </dir>
 
-<dir>
-<title>Christmas Movies</title>
-  <trakt>https://api.trakt.tv/users/quincyquinn/lists/christmas-movies</trakt>
-  <fanart>https://image.tmdb.org/t/p/original/63ki1d67RKrEWZLStg2Mpj4c3TE.jpg</fanart>
-</dir>
-
-<dir>
-  <title>Westerns</title>
-  <trakt>https://api.trakt.tv/users/shanstark71/lists/western-movies/items</trakt>
-  <fanart>https://image.tmdb.org/t/p/original/sQbp00cTLYJHAMAdHvNsgHRWr6D.jpg</fanart>
-</dir>
-
-<dir>
-  <title>Martial Arts</title>
-  <trakt>https://api.trakt.tv/users/shanstark71/lists/martial-arts/items</trakt>
-  <fanart>https://image.tmdb.org/t/p/original/vF8zI6PX2kfYtuhPCR4DYdQQLXh.jpg</fanart>
-</dir>
 
