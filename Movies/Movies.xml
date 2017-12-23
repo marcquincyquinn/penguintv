@@ -7,6 +7,12 @@
 **Movies
 
 <dir>
+    <title>TMDB Now Playing</title>
+   <tmdb>movies/now_playing</tmdb>
+ </dir>
+
+
+<dir>
   <title>The Marvel Universe</title>
   <tmdb>list/1</tmdb>
   <fanart>https://image.tmdb.org/t/p/original/l5003rpuMgaqzkw6QpZ1F3k9pKA.jpg</fanart>
@@ -36,4 +42,15 @@
   <fanart>https://image.tmdb.org/t/p/original/2d1nVbu1FO3hzZWOC4exhwzmjo6.jpg</fanart>
 </dir>
 
+<dir>
+  <title>TMDB Star Wars Collection</title>
+  <tmdb>collection/10</tmdb>
+  <fanart>https://image.tmdb.org/t/p/original/c4Dw37VZjBmObmJw9bmt8IDwMZH.jpg</fanart>
+</dir>
+
+<dir>
+   <title>Pixar Animation</title>
+   <tmdb>company/movies/3</tmdb>
+  <fanart>https://image.tmdb.org/t/p/original/rpvDBeVazJyBV5SxtnQWIgL5SIb.jpg</fanart>
+</dir>
 
