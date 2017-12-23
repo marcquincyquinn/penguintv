@@ -13,8 +13,18 @@
 </dir>
 
 <dir>
-<title>Popular TV Shows</title>
-<tmdb>tv/popular</tmdb>
+  <title>Popular TV Shows</title>
+  <tmdb>tv/popular</tmdb>
+</dir>
+
+<dir>
+   <title>TMDB Airing Today</title>
+   <tmdb>tv/today</tmdb>
+</dir>
+
+<dir>
+   <title>TMDB Top Rated</title>
+   <tmdb>tv/top_rated</tmdb>
 </dir>
 
 <dir>
@@ -33,6 +43,13 @@
   <title>Kids TV</title>
   <tmdb>list/42152</tmdb>
 </dir>
+
+<dir>
+  <title>TMDB Animation Shows</title>
+  <tmdb>genre/shows/16</tmdb>
+</dir>
+
+
 
 
 
