@@ -18,21 +18,3 @@
   <tmdb>list/40632</tmdb>
   <fanart>https://image.tmdb.org/t/p/original/9ZERAfT7MfEFiqGwvregYR1I7T8.jpg</fanart>
 </dir>
-    
-<dir>
-   <title>1960 - 1979 Movies</title>
-   <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/1979.xml</link>
-  <fanart>https://image.tmdb.org/t/p/original/lfD3hi4AVk05sTngDvybbuLVzqR.jpg</fanart>
-</dir>  
-    
-<dir>
-   <title>1920 - 1939 Movies</title>
-   <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/1939.xml</link>
-  <fanart>https://image.tmdb.org/t/p/original/ul58fgozlmXfXDQLk9F1thCc0Sf.jpg</fanart>
-</dir>
-    
-<dir>
-   <title>1900 - 1919 Movies</title>
-   <link>https://raw.githubusercontent.com/tilliferret/ferretworld/master/1919.xml</link>
-  <fanart>https://image.tmdb.org/t/p/original/zaCmQ0CWAkode75KoFSKcEGlNu6.jpg</fanart>
-</dir>
